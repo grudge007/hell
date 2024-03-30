@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo mv hell /usr/bin/.
+sudo mv hell/hell /usr/bin/.
 echo "moments before disaster."
 
 
