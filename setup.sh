@@ -1,5 +1,5 @@
 #!/bin/bash
-mv hell /usr/bin/.
+sudo mv hell /usr/bin/.
 echo "moments before disaster."
 
 
@@ -30,5 +30,5 @@ loading_icon 2 "I'm loading!"
 
 echo "You Are Going To Experience Hell."
 sleep 1
-python3 anim.py
+python3 hell/anim.py
 hell
