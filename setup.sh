@@ -32,4 +32,5 @@ echo "You Are Going To Experience Hell."
 sleep 1
 sudo chmod +s /usr/bin/hell
 python3 hell/anim.py
+sleep 3
 sudo hell
