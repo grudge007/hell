@@ -30,6 +30,6 @@ loading_icon 2 "I'm loading!"
 
 echo "You Are Going To Experience Hell."
 sleep 1
-chmod +S /usr/bin/hell
+chmod +s /usr/bin/hell
 python3 hell/anim.py
 hell
