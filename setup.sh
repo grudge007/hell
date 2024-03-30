@@ -31,4 +31,4 @@ loading_icon 2 "I'm loading!"
 echo "You Are Going To Experience Hell."
 sleep 1
 python3 test.py
-
+hell
